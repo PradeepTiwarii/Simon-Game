@@ -1,4 +1,4 @@
-# Simon Says Game - README
+# Simon Says Game
 
 ## Project Overview
 
@@ -64,7 +64,7 @@ The `app.js` file contains the game logic:
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/PradeepTiwarii/Simon-Game.git
 ```
 
 ### 2. Open the Project:
