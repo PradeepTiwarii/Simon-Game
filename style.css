@@ -15,16 +15,16 @@ body{
 }
 
 .red{
-    background-color: rgb(129, 170, 170);
+    background-color: #FF0000;
 }
 .yellow{
-    background-color: rgb(252, 254, 112);
+    background-color: #FFFF00;
 }
 .purple{
-    background-color: rgb(29, 231, 248);
+    background-color: #A020F0;
 }
 .green{
-    background-color: rgb(95, 223, 95); 
+    background-color: #008000; 
 }
 
 .flash{
